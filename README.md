@@ -29,11 +29,11 @@
 Image classifier with lib TensorFlow
 
 ## View desktop
-![imageClassifier-TensorFlowDekstop](images/)
+![imageClassifier-TensorFlowDekstop](images/imageClassifier-TensorFlow_dekstop.png)
 
 ## View mobile
 
-![imageClassifier-TensorFlowMobile](images/)
+![imageClassifier-TensorFlowMobile](images/imageClassifier-TensorFlow_mobile.png)
 
 ## Author
 
