@@ -29,7 +29,7 @@
 Image classifier with lib TensorFlow
 
 ## View desktop
-![imageClassifier-TensorFlowDekstop](images/imageClassifier-TensorFlow_dekstop.png)
+![imageClassifier-TensorFlowDekstop](images/imageClassifier-TensorFlow_desktop.png)
 
 ## View mobile
 
