@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+	color: #fff;
+	background-color: #131313;
+	font-family: 'Poppins',sans-serif;
+}
+h1 {
+	font-size: 50px;
+}
+p {
+	font-size: 22px;
+}
+.content {
+    text-align: center;
+}
+#img {
+    max-width: 90%;
+    margin: 50px 0;
+	border: 10px solid #fff;
+}
+.form input {
+	text-align: center;
+    height: 30px;
+	width: 40%;
+	font-size: 18px;
+	padding: 0 10px;
+}
+.form button {
+	font-size: 20px;
+    height: 50px;
+    padding: 0 10px;
+    border: none;
+    background: white;
+    color: #131313;
+	border: 5px solid #121212;
+}
+.form button {
+	cursor: pointer;
+}
