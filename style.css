@@ -1,6 +1,6 @@
 html, body {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 	color: #fff;
 	background-color: #131313;
 	font-family: 'Poppins',sans-serif;
@@ -15,26 +15,42 @@ p {
     text-align: center;
 }
 #img {
-    max-width: 90%;
-    margin: 50px 0;
+	max-width: 90%;
+	margin: 50px 0;
 	border: 10px solid #fff;
 }
 .form input {
 	text-align: center;
-    height: 30px;
+	height: 30px;
 	width: 40%;
 	font-size: 18px;
 	padding: 0 10px;
 }
 .form button {
 	font-size: 20px;
-    height: 50px;
-    padding: 0 10px;
-    border: none;
-    background: white;
-    color: #131313;
+	height: 50px;
+	padding: 0 10px;
+	border: none;
+	background: #fff;
+	color: #131313;
 	border: 5px solid #121212;
 }
 .form button {
 	cursor: pointer;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+footer p {
+	font-size: 18px;
+}
+footer a {
+	text-decoration: none;
+}
+footer a:visited {
+	color: #fff;
 }
