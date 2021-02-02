@@ -22,7 +22,7 @@
 
 ## Link
 
-[Click here](https://davidburdelak.github.io/ImageClassifier-TensorFlow/)
+[Click here](https://davidburdelak.github.io/imageClassifier-TensorFlow/)
 
 ## Description
 
